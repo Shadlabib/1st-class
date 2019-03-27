@@ -1,5 +1,3 @@
-# 1st-class
-HTML5/CSS3
 <!DOCTYPE html>
 <html>
 <head>
